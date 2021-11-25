@@ -1,3 +1,3 @@
 # GeradorSenha
 
-Gerador de senhas aleátorias usando python
+Gerador de senhas aleatórias usando python
